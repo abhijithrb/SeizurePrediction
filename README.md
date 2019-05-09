@@ -26,3 +26,7 @@ NOTE: To install the python libraries used:
   The following screenshot shows the program running for train mode:
   
   ![alt text](https://github.com/abhijithrb/SeizurePrediction/blob/master/img/Screenshot.png)
+
+NOTE: 
+- Due to size constraints, I am unable to ubload the model. You can find it [here](https://drive.google.com/open?id=1AuNfhcnHo7IZACRWMZFjLgL1Fixk1ICl). If running the program in test mode, Place the model in the path source/Model/
+- Also due to size constraints, I have only uploaded 4 data files for each class in the training and testing folders.
