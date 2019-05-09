@@ -1,6 +1,9 @@
 # SeizurePrediction
-A CNN + LSTM architecture to predict seizure from EEG data
+
+This project uses a CNN + LSTM architecture to predict seizure from EEG data. It classifies the data as preictal(label = 1) or interictal (label = 0 ).
+
 Ths project has 2 parts:
+
 1) Preprocessing:
 - The preprocessing script denoises the EEG signals using wavelet transform, reduces sampling freq and splits the 10 minute segment into 15 time sequences.
 - This part of the project was written in MATLAB.
