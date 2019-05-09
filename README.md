@@ -8,8 +8,11 @@ Ths project has 2 parts:
 
 2) CNN + LSTM:
 - Once the preprocessing is done, a CNN + LSTM model is trained using this data.
+
 - the architecture is shown in the figure below:
+
 ![alt text](https://github.com/abhijithrb/SeizurePrediction/blob/master/img/net_arch.png)
+
 - The source/DataGenerator.py script is a custom class to loads data into memory in batches instead of loading the entire dataset at once. Please see the comments in the script for more information about the class.
 
 NOTE: To install the python libraries used:
