@@ -22,3 +22,7 @@ NOTE: To install the python libraries used:
 - The source/seizure_prediction.py either trains the model or evaluates the model on the public set
   - to train the model, run the command `python3 seizure_prediction.py --mode train`
   - to test the model, run the command `python3 seizure_prediction.py --mode test`
+  
+  The following screenshot shows the program running for train mode:
+  
+  ![alt text](https://github.com/abhijithrb/SeizurePrediction/blob/master/img/Screenshot.png)
