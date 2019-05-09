@@ -22,6 +22,12 @@
         - The program creates a list of filenames for all training data and creates a dictionary of labels corresponding
         to each file name. These are used by the DataGenerator class to create batches of data.
         - The program will evaluate the model on the entire test set and display the accuracy
+    ---
+    Part of Seizure Prediction Project for the
+    final project of ECGR 6119 Applied AI
+    Abhijith Bagepalli
+    UNC Charlotte
+    May '19
 """
 import os
 import csv
