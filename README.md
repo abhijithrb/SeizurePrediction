@@ -1,7 +1,7 @@
 # SeizurePrediction
 
 This project uses a CNN + LSTM architecture to predict seizure from EEG data. It classifies the data as preictal(label = 1) or interictal (label = 0 ).
-
+The data used for this project was provided by https://www.epilepsyecosystem.org/.
 Ths project has 2 parts:
 
 1) Preprocessing:
